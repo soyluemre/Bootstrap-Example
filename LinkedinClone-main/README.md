@@ -3,20 +3,3 @@
  
 ## LinkedinClone
 #
-
-
-
-### Completed GIF
-![completedGIF](bootstraplinkedinclone/images/Linkedin.gif)
-
-
-#
-
-### Completed Photo
-![completedphoto](bootstraplinkedinclone/images/completed.png)
-
-#
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
